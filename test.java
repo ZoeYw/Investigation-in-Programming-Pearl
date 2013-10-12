@@ -3,7 +3,7 @@ package algorithms;
 import tools.Print;
 
 /**
- * @author yangwr1
+ * @author zoe
  * 排序算法父类，提供基本构造函数，已整数型数组为标准数组。将数组中的整数按照升序排序，其中升序函数sortAscending由子类自己实现。
  *
  */
